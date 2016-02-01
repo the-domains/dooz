@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T06:45:26.292Z'
-dateModified: '2016-02-01T06:43:43.735Z'
+datePublished: '2016-02-01T06:50:51.523Z'
+dateModified: '2016-02-01T06:50:47.331Z'
 title: Geluidshuis
 author: []
+sourcePath: _posts/2016-02-01-geluidshuis.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-geluidshuis.md
-published: true
 url: geluidshuis/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ade68919-b0de-4a7d-8e6f-7ae251646d9c.png)
