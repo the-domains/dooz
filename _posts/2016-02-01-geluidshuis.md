@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T06:54:48.504Z'
+datePublished: '2016-02-01T06:54:48.525Z'
 dateModified: '2016-02-01T06:54:43.699Z'
 title: Geluidshuis
 author: []
