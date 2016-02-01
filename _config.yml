@@ -1,5 +1,8 @@
+name: dooz
+favicon: null
+layout_spectrum: 0.75304
+typography_spectrum: 0.33899
 title: ' {}&€ => Work in progress, check back in a month... :)'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.1875
-  rhythmicContrast: 0.75
   brandColors:
     - '#a5c3b1'
     - '#5d624f'
     - '#faecd0'
     - '#332b17'
     - '#f16e2f'
+  brandStrength: 0.1875
   lightness: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: dooz
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.33899
-layout_spectrum: 0.9
+  saturation: 1
+  rhythmicContrast: 0.75
+purpose: []
