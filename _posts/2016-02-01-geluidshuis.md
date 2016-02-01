@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T06:50:51.764Z'
-dateModified: '2016-02-01T06:50:47.331Z'
+datePublished: '2016-02-01T06:54:48.504Z'
+dateModified: '2016-02-01T06:54:43.699Z'
 title: Geluidshuis
 author: []
 sourcePath: _posts/2016-02-01-geluidshuis.md
@@ -22,7 +22,7 @@ url: geluidshuis/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ade68919-b0de-4a7d-8e6f-7ae251646d9c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afee0a9a73bf693829f94baac2c8873b8c83b9b3.png)
 
 A first project where the conceptual phase was handled by dooZ is started in February 2016\. This project is for [geluidshuis.be][0]. 
 
