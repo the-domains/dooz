@@ -38,6 +38,9 @@ navigation:
   - name: Blog
     url: 'https://medium.com/@doozMen'
     type: external
+  - name: Github
+    url: 'https://github.com/doozMen'
+    type: external
 favicon: null
 collections:
   - index:
