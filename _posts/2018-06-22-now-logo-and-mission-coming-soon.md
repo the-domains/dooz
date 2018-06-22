@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Soon we, Ivo and Stijn, will announce our new mission. We already updated the
   logo. In the future we will focus on:
-dateModified: '2018-06-22T15:50:10.788Z'
-datePublished: '2018-06-22T15:50:11.809Z'
+dateModified: '2018-06-22T19:49:45.571Z'
+datePublished: '2018-06-22T19:49:46.740Z'
 title: Now logo and mission coming soon
 author: []
 publisher: {}
