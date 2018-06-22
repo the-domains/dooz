@@ -26,7 +26,7 @@ author:
   url: 'http://www.dooz.be'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/66995879-eb94-4b42-9d7d-441bb30196a0.png
-name: dooz
+name: ' '
 cta:
   bucket: null
   version: null
@@ -81,7 +81,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ⚡️mobile
+description: Adding ⚡️to mobile solutions
 purpose:
   - type: contact
     url: 'tel:+32472505859'
