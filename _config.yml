@@ -35,7 +35,7 @@ navigation:
   - name: Blog
     url: 'https://medium.com/@doozMen'
     type: external
-  - name: Porto
+  - name: Portfolio
     url: 'https://pasteapp.com/p/gPacfsGmwEE'
     type: external
 favicon: null
