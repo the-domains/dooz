@@ -32,11 +32,11 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Blog
-    url: 'https://medium.com/@doozMen'
-    type: external
   - name: Portfolio
     url: 'https://pasteapp.com/p/gPacfsGmwEE'
+    type: external
+  - name: Blog
+    url: 'https://medium.com/@doozMen'
     type: external
 favicon: null
 collections:
