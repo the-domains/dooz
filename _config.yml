@@ -41,7 +41,8 @@ navigation:
   - name: Github
     url: 'https://github.com/doozMen'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce851c32-e45a-4b75-ba83-0fe59deab849.png
 collections:
   - index:
       path: /
