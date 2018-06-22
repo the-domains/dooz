@@ -42,31 +42,7 @@ collections:
       format: rss
       number: 10
 title: dooZ Bvba
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ab8078-7d3e-4255-8c73-407de18602f3.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ab8078-7d3e-4255-8c73-407de18602f3.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: ⚡️mobile
 purpose:
   - type: contact
