@@ -1,5 +1,34 @@
-title: ' {}&€ => Work in progress, check back in a month... :)'
-purpose: []
+typography_spectrum: 0.632736685578573
+color:
+  saturation: 0.9229657248402993
+  brandStrength: 0.6220881624924628
+  rhythmicContrast: 0.7934259178924679
+  brandColors:
+    - '#030408'
+    - '#3B423B'
+    - '#EDE1AD'
+    - '#B79D6C'
+    - '#761316'
+  lightness: 0.5597883923122162
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8180409022324747
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: dooz
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Blog
+    url: 'https://medium.com/@doozMen'
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,44 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 0.893617
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#a5c3b1'
-    - '#5d624f'
-    - '#faecd0'
-    - '#332b17'
-    - '#f16e2f'
-  lightness: 0.25
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: dooz
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1744681
-layout_spectrum: 0.9851064
+title: dooZ Bvba
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ab8078-7d3e-4255-8c73-407de18602f3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ab8078-7d3e-4255-8c73-407de18602f3.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: ⚡️mobile
+purpose:
+  - type: contact
+    url: 'tel:+32472505859'
+    label: Call +32472505859
+  - type: external
+    url: 'https://be.linkedin.com/in/stijnwillems'
+    label: LinkedIn
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/66995879-eb94-4b42-9d7d-441bb30196a0.png
+author:
+  name: Stijn Willems
+  email: stijn@dooz.be
+  url: 'http://www.dooz.be'
